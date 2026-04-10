@@ -1,5 +1,5 @@
 const botao = document.getElementById('btn')
-const valorNome = document.getElementById('campo-nome')
+const campoInput = document.getElementById('campo-nome')
 const lista = document.getElementById('lista-nomes')
 
 botao.addEventListener('click', function(){
