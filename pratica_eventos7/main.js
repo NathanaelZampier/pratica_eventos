@@ -1,5 +1,5 @@
 const botao = document.getElementById('btn')
-const campoTarefas = document.getElementById('campo-afazeres')
+const campoTarefas = document.getElementById('campo-tarefas')
 const lista = document.getElementById('lista')
 
 botao.addEventListener('click', function(){

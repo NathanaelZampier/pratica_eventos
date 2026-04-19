@@ -3,7 +3,7 @@ const campoInput = document.getElementById('campo-nome')
 const lista = document.getElementById('lista-nomes')
 
 botao.addEventListener('click', function(){
-    const valor = valorNome.value
+    const valor = campoInput.value
     
     if(!valor) {
         alert('insira um nome')
