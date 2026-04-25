@@ -53,10 +53,10 @@ form.addEventListener('submit', function(event){
         feedbackGeral.style.color = 'green'
     }
     
-    // campoNome.value = ''
-    // campoEmail.value = ''
-    // campoSenha.value = ''
-    // campoNome.focus()
+    campoNome.value = ''
+    campoEmail.value = ''
+    campoSenha.value = ''
+    campoNome.focus()
 
     
 })
